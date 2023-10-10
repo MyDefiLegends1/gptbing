@@ -449,7 +449,7 @@ class OpenAIClient extends BaseClient {
       configOptions.baseOptions = {
         headers: {
           'HTTP-Referer': 'https://librechat.ai',
-          'X-Title': 'LibreChat',
+          'X-Title': 'BingBlong',
         },
       };
     }

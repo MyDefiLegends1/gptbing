@@ -86,7 +86,7 @@ async function validateDockerRunning() {
     execSync(downCommand, { stdio: 'inherit' });
     console.purple('Pruning all LibreChat Docker images...');
 
-    const imageName = singleCompose ? 'librechat_single' : 'librechat';
+    const imageName = singleCompose ? 'librechat_single' : 'BingBlong';
     try {
       execSync(`${sudo}docker rmi ${imageName}:latest`, { stdio: 'inherit' });
     } catch (e) {

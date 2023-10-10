@@ -2,9 +2,9 @@
   <a href="https://discord.gg/NGaa9RPCft">
     <img src="assets/LibreChat.svg" style="margin-left: 40px; height: 256px; width: 256px;>
   </a>
-  <a href="https://librechat.ai">
+  <a href="https://bingblong.com">
     <!-- Use the margin-top property to add some space between the image and the text -->
-    <h1 align="center" style="padding: 0;">LibreChat</h1>
+    <h1 align="center" style="padding: 0;">BingBlong</h1>
   </a>
 </p>
 
